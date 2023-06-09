@@ -1,11 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T09:01:47.080Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="UFF9Rt1QPhoDzfwupazY" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-09T09:53:17.653Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="fAP98g93qzgDEqa_Bzx8" version="21.3.8" type="github">
   <diagram name="第 1 页" id="mwjbd0DWXr3cBy_Mdmfu">
     <mxGraphModel dx="1376" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="80c4YwfRIevlo3T5H2QM-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;TV&lt;/b&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" vertex="1" parent="1">
-          <mxGeometry x="80" y="320" width="120" height="80" as="geometry" />
+        <mxCell id="80c4YwfRIevlo3T5H2QM-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;TV&lt;/b&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="20" y="315" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="80c4YwfRIevlo3T5H2QM-2" value="" style="shape=actor;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="50" y="490" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="80c4YwfRIevlo3T5H2QM-5" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="150" y="345" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="80c4YwfRIevlo3T5H2QM-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;协议平台&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;rounded=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="210" y="315" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="80c4YwfRIevlo3T5H2QM-8" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="50" y="420" width="45" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="80c4YwfRIevlo3T5H2QM-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;谷歌&amp;nbsp;&lt;/font&gt;" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;rounded=0;labelBackgroundColor=none;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="390" y="240" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="80c4YwfRIevlo3T5H2QM-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;lot&lt;/font&gt;" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;rounded=0;labelBackgroundColor=none;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="390" y="405" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="80c4YwfRIevlo3T5H2QM-15" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="1">
+          <mxGeometry x="569" y="255" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="80c4YwfRIevlo3T5H2QM-16" value="&lt;h1 style=&quot;box-sizing: border-box; outline: 0px; margin: 0px; padding: 0px; font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, SimHei, Arial, SimSun; overflow-wrap: break-word; color: rgb(34, 34, 38); word-break: break-all; font-variant-ligatures: common-ligatures; text-align: start; background-color: rgb(255, 255, 255);&quot; id=&quot;articleContentId&quot; class=&quot;title-article&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;1.集成 Matter 设备端&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="576" y="175" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="80c4YwfRIevlo3T5H2QM-19" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="1">
+          <mxGeometry x="569" y="215" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="80c4YwfRIevlo3T5H2QM-20" value="&lt;b&gt;2.Google Pay 支付&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="574" y="225" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="80c4YwfRIevlo3T5H2QM-21" value="Label" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="1">
+          <mxGeometry x="390" y="550" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="80c4YwfRIevlo3T5H2QM-22" value="" style="triangle;html=1;whiteSpace=wrap;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="80c4YwfRIevlo3T5H2QM-21">
+          <mxGeometry x="20" y="20" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="80c4YwfRIevlo3T5H2QM-24" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="1">
+          <mxGeometry x="569" y="300" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="80c4YwfRIevlo3T5H2QM-25" value="&lt;b&gt;3.Firebase 数据运营&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="577" y="270" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="80c4YwfRIevlo3T5H2QM-27" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" parent="1">
+          <mxGeometry x="564" y="345" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="80c4YwfRIevlo3T5H2QM-28" value="&lt;b&gt;4.&amp;nbsp;Google Play Console游戏服务及应用&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="575" y="315" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
